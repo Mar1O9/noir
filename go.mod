@@ -1,4 +1,4 @@
-module github.com/Mar1O9/noir
+module github.com/vexvolt/noir
 
 go 1.24.2
 
